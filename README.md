@@ -8,6 +8,7 @@ Implementing (almost!) from scratch some AI/ML algorithms. This is a repository 
 
 ## Explainable AI
 - PDP = Partial Dependence Plot
+***
 
 ## Machine Learning
 - Attention Mechanism
@@ -24,11 +25,13 @@ Implementing (almost!) from scratch some AI/ML algorithms. This is a repository 
 - PCA = Principal Component Analysis
 - Random Forest
 - Softmax Regression
+***
 
 ## Statistics & Probability
 - Chi-square feature selection
 - Student’s t-Test
 - Bernoulli and Multinomial Naive Bayes
+***
 
 ## Optimisation
 - Adam optimiser
@@ -37,6 +40,15 @@ Implementing (almost!) from scratch some AI/ML algorithms. This is a repository 
 - Evolution Strategies
 - Genetic Algorithm
 - Simulated Annealing
+***
+
+## Linear algebra & linear solver & others
+- LU Decomposition
+- Cholesky Decomposition
+- QR Decomposition
+- Jacobi Method
+***
+
 
 ## Resources
 - [labml.ai Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) This is a collection of simple PyTorch implementations of neural networks and related algorithms.
